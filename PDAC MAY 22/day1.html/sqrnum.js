@@ -4,4 +4,4 @@ function getsquare(base){
 
 const result =
 getsure(11);
-console,log(result);
+console,log(result)
