@@ -2,6 +2,10 @@ function getsquare(base){
     return base**2;
 
 
-const result =
+const result = 
 getsure(11);
 console,log(result)
+
+
+console.log("abc")
+}
